@@ -12,7 +12,7 @@ def main():
    else:
     name=sys.argv[1]
     #If argument IS added to end of module call
-   print('Why, hello there, ', name, '.', sep='')
+   print('Fuck you, ', name, '.', sep='')
    
    # Command line args are in sys.argv[1], sys.argv[2] ...
    # sys.argv[0] is the script name itself and can be ignored
